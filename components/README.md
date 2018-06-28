@@ -1,1 +1,1 @@
-## Components for implementation
+## components for algorithm
