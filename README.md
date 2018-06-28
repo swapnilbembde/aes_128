@@ -25,5 +25,7 @@ of using keys of 128, 192 and 256 bits to encrypt and decrypt the data in blocks
   Simulation. All the individual transformation of encryption and decryption are simulated using
   FPGA CYCLON IV E family and EP4CE22F17 device.
   
+ <ig> Gate-level simulations with Altera Quartus Prime 16.0</ig>
+ <img src = 'rtl.PNG'>
 
   
